@@ -1,1 +1,1 @@
-Repository for storing my progress on the [freecodecamp](www.freecodecamp.org) Curriculum.
+Repository for storing my progress on the [freecodecamp](https://www.freecodecamp.org) Curriculum.
