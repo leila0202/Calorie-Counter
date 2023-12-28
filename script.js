@@ -11,4 +11,6 @@ function cleanInputString(str) {
   return str.replace(regex, "");
 }
 
-function isInvalidInput(str) {}
+function isInvalidInput(str) {
+  const regex = /e/g;
+}
