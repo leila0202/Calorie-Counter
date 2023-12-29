@@ -65,7 +65,8 @@ function calculateCalories(e) {
   const surplusOrDeficit = remainingCalories >= 0 ? "Surplus" : "Deficit";
   output.innerHTML = `<span class="${surplusOrDeficit.toLowerCase()}">${Math.abs(
     remainingCalories
-  )} Calorie ${surplusOrDeficit}</span>`;
+  )} Calorie ${surplusOrDeficit}</span>
+  <hr/>`;
 }
 
 function getCaloriesFromInputs(list) {
